@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "Users": {
+      ".indexOn": ["Name"],
+      ".read": true,
+      ".write": true
+    }
+
+  }
+}
